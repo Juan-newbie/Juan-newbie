@@ -1,4 +1,4 @@
-## BIENBENIDOS 👋
+## BIENVENIDOS 👋
 
 
 Hola mundo aquí Juan, un estudiante promedio como cualquier otro intentando aprender, este será mi repositorio inicial pero no el que contenga código pues no es mas que una burda presentación
